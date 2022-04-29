@@ -14,4 +14,4 @@ testing link: https://cleverflare.github.io/online-store/
 </ol>
 <br><br>
 <h2>Project UI/UX Design:</h2><br>
-![alt homepage-1](/photos/`WhatsApp Image 2022-04-20 at 1.32.46 AM.jpeg` "Home page 1")
+![alt text](/photos/img.jpg "Title")
