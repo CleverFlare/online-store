@@ -14,3 +14,4 @@ testing link: https://cleverflare.github.io/online-store/
 </ol>
 <br><br>
 <h2>Project UI/UX Design:</h2><br>
+<img src="/photos/WhatsApp Image 2022-04-20 at 1.32.46 AM.jpeg">
