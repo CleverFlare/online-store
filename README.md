@@ -11,6 +11,7 @@ the link: https://cleverflare.github.io/online-store/
   <li>Eng/ Mariam</li>
   <li>Eng/ Yara</li>
   <li>Eng/ Yusra Ahmed</li>
+  <li>Eng/ Yussef Sheriff</li>
 </ol>
 <br><br>
 <h2>Project UI/UX Design:</h2><br>
