@@ -59,7 +59,8 @@
   box-sizing: border-box;
   background-color: white;
   transition: .5s;
-  box-shadow: 10px 0 10px black;
+  box-shadow: 0px 1px 10px #0000007a;
+  z-index: 1000;
 }
 .phone-navbar .right-side {
   display: flex;
@@ -147,6 +148,113 @@
   background: #eeeeee;
 }
 
+.page-body {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.desktop-navbar {
+  display: flex;
+  background-color: var(--navbarBGColor);
+}
+.desktop-navbar a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 15px;
+  color: white;
+}
+
+.first-button {
+  padding: 0 20px;
+}
+
+.phone-nav-anchors .amount {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 30px;
+  width: 25px;
+  height: 25px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: minmax(auto, 250px) auto auto minmax(auto, 250px);
+  grid-template-areas: "c b b o";
+  gap: 20px;
+}
+
+.content .product-list {
+  grid-area: o;
+}
+.categories {
+  display: flex;
+  flex-direction: column;
+  grid-area: c;
+}
+
+.categories-list {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  background-color: white;
+}
+.categories-list a {
+  padding: 10px 10px 10px 15px;
+}
+.categories-list a:hover {
+  background-color: #dedede;
+}
+
+.new-products-carousel {
+  display: flex;
+  grid-area: b;
+  position: relative;
+  overflow: hidden;
+}
+
+.new-products-carousel-figure {
+  display: flex;
+  width: max-content;
+  transition: .5s;
+}
+.new-products-carousel-figure img {
+  object-fit: cover;
+  object-position: center;
+}
+
+.new-products-carousel-button-group {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+}
+.new-products-carousel-button-group input {
+  appearance: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: white;
+  opacity: .8;
+  cursor: pointer;
+}
+.new-products-carousel-button-group input:checked {
+  opacity: 1;
+}
+
+@media screen and (max-width: 1078px) {
+  .content {
+    grid-template-areas: "b b b b" "c c c c" "o o o o";
+  }
+}
+
 @media screen and (max-width: 768px) {
   header {
     display: none;
@@ -160,6 +268,8 @@
     position: absolute;
     top: 0;
     left: 0;
+    width: 100vw;
+    background-color: #eeeeee;
     overflow: hidden;
     box-shadow: 0px 20px 60px #00000080;
     z-index: 10000;
@@ -175,7 +285,7 @@
   .phone-side-nav-wrapper {
     display: flex;
   }
-  .tall {
-    display: block;
+  .desktop-navbar {
+    display: none;
   }
 }

@@ -10,11 +10,9 @@
     <link rel="stylesheet" href="css/essentials.css" />
     <link rel="stylesheet" href="css/icons.css" />
     <script src="javascript/burger-menu.js" defer></script>
+    <script src="javascript/bannerCarousel.js" defer></script>
   </head>
   <body>
-    <div class="carousel">
-      
-    </div>
     <div class="top-nav">
       <div class="social-icons">
         <a href="" class="icon-facebook"></a>
@@ -71,11 +69,31 @@
       <div class="phone-side-nav">
         <img src="images/phone logo.png" class="logo" />
         <div class="phone-nav-anchors">
-          <a href="">Home</a>
-          <a href="">Special Offers</a>
-          <a href="">Brand</a>
-          <a href="">Sell On EgyStore</a>
-          <a href="">Contact</a>
+          <a href="">
+            <span class="icon-home"></span>
+            Home
+          </a>
+          <a href="">
+            <span class="icon-crown"></span>
+            Special Offers
+          </a>
+          <a href="">
+            <span class="icon-shopping-bag"></span>
+            Brand
+          </a>
+          <a href="">
+            <span class="icon-thumbs-up"></span>
+            Sell On EgyStore
+          </a>
+          <a href="">
+            <span class="icon-contact"></span>
+            Contact
+          </a>
+          <a href="" style="position: relative">
+            <span class="icon-shopping-cart"></span>
+            Your Cart
+            <p class="amount">5</p>
+          </a>
           <a href="" class="primary-button">
             <span class="icon-user"></span>
             Account
@@ -95,7 +113,112 @@
           <button class="phone-icon icon-menu-burger"></button>
         </div>
       </div>
-      <section class="tall"></section>
+      <div class="container">
+        <div class="desktop-navbar">
+          <a href="" style="color: initial; background-color: var(--baseColor)"
+            ><span class="icon-home"></span
+          ></a>
+          <a href="">Special Offers</a>
+          <a href="">Brand</a>
+          <a href="">Sell On EgyStore</a>
+          <a href="">Contact</a>
+        </div>
+      </div>
+      <div class="container">
+        <div class="content">
+          <div class="categories">
+            <h2 class="primary-list-heading">Categories</h2>
+            <div class="categories-list">
+              <a href="">Mobiles</a>
+              <a href="">Men's Fashion</a>
+              <a href="">Women's Fashion</a>
+              <a href="">Kids' Fashion</a>
+              <a href="">Toys</a>
+              <a href="">Electronics</a>
+              <a href="">Beauty</a>
+              <a href="">Home & Kitchen</a>
+              <a href="">Televisions</a>
+            </div>
+          </div>
+          <div class="new-products-carousel">
+            <figure class="new-products-carousel-figure">
+              <img
+                src="images/headphones2.png"
+                class="new-products-carousel-img"
+              />
+              <img
+                src="images/headphones2.png"
+                class="new-products-carousel-img"
+              />
+              <img
+                src="images/headphones2.png"
+                class="new-products-carousel-img"
+              />
+              <img
+                src="images/headphones2.png"
+                class="new-products-carousel-img"
+              />
+            </figure>
+            <div class="new-products-carousel-button-group"></div>
+          </div>
+          <div class="product-list">
+            <h2 class="primary-list-heading">On Sale</h2>
+            <div class="product-list-items">
+              <div class="product-list-item">
+                <img
+                  src="images/iphone2.png"
+                  class="product-list-item-left-sec"
+                />
+                <div class="product-list-item-right-sec">
+                  <a href="" class="product-name">product name</a>
+                  <p class="product-price">$00.00</p>
+                  <ul class="product-rate">
+                    <li class="stared">★</li>
+                    <li class="stared">★</li>
+                    <li class="stared">★</li>
+                    <li>★</li>
+                    <li>★</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="product-list-item">
+                <img
+                  src="images/iphone2.png"
+                  class="product-list-item-left-sec"
+                />
+                <div class="product-list-item-right-sec">
+                  <a href="" class="product-name">product name</a>
+                  <p class="product-price">$00.00</p>
+                  <ul class="product-rate">
+                    <li class="stared">★</li>
+                    <li class="stared">★</li>
+                    <li class="stared">★</li>
+                    <li>★</li>
+                    <li>★</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="product-list-item">
+                <img
+                  src="images/iphone2.png"
+                  class="product-list-item-left-sec"
+                />
+                <div class="product-list-item-right-sec">
+                  <a href="" class="product-name">product name</a>
+                  <p class="product-price">$00.00</p>
+                  <ul class="product-rate">
+                    <li class="stared">★</li>
+                    <li class="stared">★</li>
+                    <li class="stared">★</li>
+                    <li>★</li>
+                    <li>★</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </body>
 </html>
