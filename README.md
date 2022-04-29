@@ -21,6 +21,6 @@
 <img src="/photos/WhatsApp Image 2022-04-20 at 1.32.47 AM (2).jpeg" title="the bottom of the home page">
 <img src="/photos/WhatsApp Image 2022-04-20 at 1.32.47 AM (1).jpeg" title="the login page">
 <img src="/photos/WhatsApp Image 2022-04-20 at 1.32.47 AM.jpeg" title="the sign up page">
-```JS
+```
 console.log('test')
 ```
