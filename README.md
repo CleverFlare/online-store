@@ -5,10 +5,10 @@ testing link: https://cleverflare.github.io/online-store/
 <br><br>
 <h2>Participants of this project are:-</h2>
 <ol type="1">
-  <li>Eng/Abdullah Muhammad</li>
-  <li>Eng/Muhammad Emam</li>
-  <li>Eng/Muhammad Qutb</li>
-  <li>Eng/Mariam</li>
-  <li>Eng/Yara</li>
-  <li>Eng/Yusra Ahmed</li>
+  <li>Eng/ Abdullah Muhammad</li>
+  <li>Eng/ Muhammad Emam</li>
+  <li>Eng/ Muhammad Qutb</li>
+  <li>Eng/ Mariam</li>
+  <li>Eng/ Yara</li>
+  <li>Eng/ Yusra Ahmed</li>
 </ol>
