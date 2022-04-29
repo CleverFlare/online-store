@@ -14,4 +14,3 @@ testing link: https://cleverflare.github.io/online-store/
 </ol>
 <br><br>
 <h2>Project UI/UX Design:</h2><br>
-![alt text](https://github.com/CleverFlare/online-store/blob/c9b300443a80e869e623fc9609950d7e6752625f/photos/WhatsApp%20Image%202022-04-20%20at%201.32.46%20AM.jpeg "Title")
