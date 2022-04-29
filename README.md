@@ -14,4 +14,8 @@ testing link: https://cleverflare.github.io/online-store/
 </ol>
 <br><br>
 <h2>Project UI/UX Design:</h2><br>
-<img src="/photos/WhatsApp Image 2022-04-20 at 1.32.46 AM.jpeg">
+<img src="/photos/WhatsApp Image 2022-04-20 at 1.32.46 AM.jpeg" title="the top of the home page">
+<img src="/photos/WhatsApp Image 2022-04-20 at 1.32.47 AM (3).jpeg" title="the top of the middle page">
+<img src="/photos/WhatsApp Image 2022-04-20 at 1.32.47 AM (2).jpeg" title="the top of the bottom page">
+<img src="/photos/WhatsApp Image 2022-04-20 at 1.32.47 AM (1).jpeg" title="the login page">
+<img src="/photos/WhatsApp Image 2022-04-20 at 1.32.47 AM.jpeg" title="the sign up page">
