@@ -1,6 +1,6 @@
-<h1>EgyStore</h1>
-<img src="images/logo.png" alt="Logo">
-the link: https://cleverflare.github.io/online-store/ 
+<h1 align="center">EgyStore</h1>
+<p align="center"><img src="images/logo.png" alt="Logo"></p>
+<i align="center">the link: https://cleverflare.github.io/online-store/ </i>
 <br><br>
 <b>NOTE:</b> wait for a couple of seconds after pushing the code before you check on the link, it takes several minutes for GitHub to successfully deploy the site.
 <br><br>
