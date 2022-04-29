@@ -1,8 +1,8 @@
 <h1 align="center">EgyStore</h1>
 <p align="center"><img src="images/logo.png" alt="Logo"></p>
-<i align="center">the link: https://cleverflare.github.io/online-store/ </i>
+<p><i>the link: https://cleverflare.github.io/online-store/</i></p>
 <br><br>
-<b>NOTE:</b> wait for a couple of seconds after pushing the code before you check on the link, it takes several minutes for GitHub to successfully deploy the site.
+<p align="center"><b>NOTE:</b> wait for a couple of seconds after pushing the code before you check on the link, it takes several minutes for GitHub to successfully deploy the site</p>
 <br><br>
 <h2>Participants of this project are:</h2>
 <ol type="1">
