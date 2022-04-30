@@ -1,3 +1,4 @@
+<i>under construction</i>
 <h1 align="center">EgyStore</h1>
 <p align="center"><img src="images/logo.png" alt="Logo"></p>
 <br>
