@@ -14,6 +14,7 @@
   <li>Eng/ Yara</li>
   <li>Eng/ Yusra Ahmed</li>
   <li>Eng/ Yussef Sheriff</li>
+  <li>Eng/ Hazem</li>
 </ol>
 <br><br>
 <h2>Project UI/UX Design:</h2><br>
